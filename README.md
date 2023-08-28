@@ -3,7 +3,7 @@ I am Felix Kapfer and I am a dual student at PERI SE studying 'International Man
 
 ## 📚 Knowledge
 
-* Programming languages:   
+* Programming Languages:   
 ![HTML5](https://img.shields.io/badge/HTML5%20-%20black?logo=HTML5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3%20-%20black?logo=CSS3&logoColor=1572B6)
 ![SASS](https://img.shields.io/badge/SASS%20-%20black?logo=SASS&logoColor=hotpink)
