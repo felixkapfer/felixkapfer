@@ -28,37 +28,37 @@ Plus a steady stream of AI-agent side-projects, because the best way to learn a 
 <tr>
 <td align="center"><strong>Languages</strong></td>
 <td>
-<a href="#"><img align="left" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-334155?style=flat-square&logo=typescript&logoColor=white"></a><a href="#"><img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-334155?style=flat-square&logo=javascript&logoColor=white"></a><a href="#"><img align="left" alt="Python" src="https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=white"></a><a href="#"><img align="left" alt="Java" src="https://img.shields.io/badge/Java-334155?style=flat-square"></a><a href="#"><img align="left" alt="PHP" src="https://img.shields.io/badge/PHP-334155?style=flat-square&logo=php&logoColor=white"></a>
+<a href="https://www.typescriptlang.org"><img align="left" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-334155?style=flat&logo=typescript&logoColor=white"></a><a href="https://developer.mozilla.org/docs/Web/JavaScript"><img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-334155?style=flat&logo=javascript&logoColor=white"></a><a href="https://www.python.org"><img align="left" alt="Python" src="https://img.shields.io/badge/Python-334155?style=flat&logo=python&logoColor=white"></a><a href="https://www.java.com"><img align="left" alt="Java" src="https://img.shields.io/badge/Java-334155?style=flat&logo=openjdk&logoColor=white"></a><a href="https://www.php.net"><img align="left" alt="PHP" src="https://img.shields.io/badge/PHP-334155?style=flat&logo=php&logoColor=white"></a>
 </td>
 </tr>
 <tr>
 <td align="center"><strong>AI&nbsp;Agents&nbsp;&amp;&nbsp;LLMs</strong></td>
 <td>
-<a href="#"><img align="left" alt="LangChain" src="https://img.shields.io/badge/LangChain-334155?style=flat-square&logo=langchain&logoColor=white"></a><a href="#"><img align="left" alt="LangGraph" src="https://img.shields.io/badge/LangGraph-334155?style=flat-square"></a><a href="#"><img align="left" alt="CrewAI" src="https://img.shields.io/badge/CrewAI-334155?style=flat-square"></a> &nbsp;<sub><em>· my favourite corner</em></sub>
+<a href="https://www.langchain.com"><img align="left" alt="LangChain" src="https://img.shields.io/badge/LangChain-334155?style=flat&logo=langchain&logoColor=white"></a><a href="https://www.langchain.com/langgraph"><img align="left" alt="LangGraph" src="https://img.shields.io/badge/LangGraph-334155?style=flat"></a><a href="https://www.crewai.com"><img align="left" alt="CrewAI" src="https://img.shields.io/badge/CrewAI-334155?style=flat"></a> &nbsp;<sub><em>· my favourite corner</em></sub>
 </td>
 </tr>
 <tr>
 <td align="center"><strong>SAP&nbsp;&amp;&nbsp;Cloud</strong></td>
 <td>
-<a href="#"><img align="left" alt="SAP BTP" src="https://img.shields.io/badge/SAP%20BTP-334155?style=flat-square&logo=sap&logoColor=white"></a><a href="#"><img align="left" alt="Kyma" src="https://img.shields.io/badge/Kyma-334155?style=flat-square"></a><a href="#"><img align="left" alt="CAP" src="https://img.shields.io/badge/CAP-334155?style=flat-square"></a><a href="#"><img align="left" alt="Azure" src="https://img.shields.io/badge/Azure-334155?style=flat-square"></a><a href="#"><img align="left" alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-334155?style=flat-square&logo=googlecloud&logoColor=white"></a>
+<a href="https://www.sap.com/products/technology-platform.html"><img align="left" alt="SAP BTP" src="https://img.shields.io/badge/SAP%20BTP-334155?style=flat&logo=sap&logoColor=white"></a><a href="https://kyma-project.io"><img align="left" alt="Kyma" src="https://img.shields.io/badge/Kyma-334155?style=flat"></a><a href="https://cap.cloud.sap"><img align="left" alt="CAP" src="https://img.shields.io/badge/CAP-334155?style=flat"></a><a href="https://azure.microsoft.com"><img align="left" alt="Azure" src="https://img.shields.io/badge/Azure-334155?style=flat&logo=microsoftazure&logoColor=white"></a><a href="https://cloud.google.com"><img align="left" alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-334155?style=flat&logo=googlecloud&logoColor=white"></a>
 </td>
 </tr>
 <tr>
 <td align="center"><strong>ML&nbsp;&amp;&nbsp;Data</strong></td>
 <td>
-<a href="#"><img align="left" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-334155?style=flat-square&logo=tensorflow&logoColor=white"></a><a href="#"><img align="left" alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-334155?style=flat-square&logo=scikit-learn&logoColor=white"></a><a href="#"><img align="left" alt="Pandas" src="https://img.shields.io/badge/Pandas-334155?style=flat-square&logo=pandas&logoColor=white"></a><a href="#"><img align="left" alt="NumPy" src="https://img.shields.io/badge/NumPy-334155?style=flat-square&logo=numpy&logoColor=white"></a><a href="#"><img align="left" alt="Databricks" src="https://img.shields.io/badge/Databricks-334155?style=flat-square&logo=databricks&logoColor=white"></a>
+<a href="https://www.tensorflow.org"><img align="left" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-334155?style=flat&logo=tensorflow&logoColor=white"></a><a href="https://scikit-learn.org"><img align="left" alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-334155?style=flat&logo=scikit-learn&logoColor=white"></a><a href="https://pandas.pydata.org"><img align="left" alt="Pandas" src="https://img.shields.io/badge/Pandas-334155?style=flat&logo=pandas&logoColor=white"></a><a href="https://numpy.org"><img align="left" alt="NumPy" src="https://img.shields.io/badge/NumPy-334155?style=flat&logo=numpy&logoColor=white"></a><a href="https://www.databricks.com"><img align="left" alt="Databricks" src="https://img.shields.io/badge/Databricks-334155?style=flat&logo=databricks&logoColor=white"></a>
 </td>
 </tr>
 <tr>
 <td align="center"><strong>Frameworks</strong></td>
 <td>
-<a href="#"><img align="left" alt="Next.js" src="https://img.shields.io/badge/Next.js-334155?style=flat-square&logo=next.js&logoColor=white"></a><a href="#"><img align="left" alt="Node.js" src="https://img.shields.io/badge/Node.js-334155?style=flat-square&logo=node.js&logoColor=white"></a><a href="#"><img align="left" alt="Angular" src="https://img.shields.io/badge/Angular-334155?style=flat-square&logo=angular&logoColor=white"></a><a href="#"><img align="left" alt="Django" src="https://img.shields.io/badge/Django-334155?style=flat-square&logo=django&logoColor=white"></a><a href="#"><img align="left" alt="Tailwind" src="https://img.shields.io/badge/Tailwind-334155?style=flat-square&logo=tailwindcss&logoColor=white"></a>
+<a href="https://nextjs.org"><img align="left" alt="Next.js" src="https://img.shields.io/badge/Next.js-334155?style=flat&logo=next.js&logoColor=white"></a><a href="https://nodejs.org"><img align="left" alt="Node.js" src="https://img.shields.io/badge/Node.js-334155?style=flat&logo=node.js&logoColor=white"></a><a href="https://angular.dev"><img align="left" alt="Angular" src="https://img.shields.io/badge/Angular-334155?style=flat&logo=angular&logoColor=white"></a><a href="https://www.djangoproject.com"><img align="left" alt="Django" src="https://img.shields.io/badge/Django-334155?style=flat&logo=django&logoColor=white"></a><a href="https://tailwindcss.com"><img align="left" alt="Tailwind" src="https://img.shields.io/badge/Tailwind-334155?style=flat&logo=tailwindcss&logoColor=white"></a>
 </td>
 </tr>
 <tr>
 <td align="center"><strong>Data&nbsp;&amp;&nbsp;Infra</strong></td>
 <td>
-<a href="#"><img align="left" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-334155?style=flat-square&logo=postgresql&logoColor=white"></a><a href="#"><img align="left" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-334155?style=flat-square&logo=mongodb&logoColor=white"></a><a href="#"><img align="left" alt="Linux" src="https://img.shields.io/badge/Linux-334155?style=flat-square&logo=linux&logoColor=white"></a><a href="#"><img align="left" alt="Docker" src="https://img.shields.io/badge/Docker-334155?style=flat-square&logo=docker&logoColor=white"></a><a href="#"><img align="left" alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-334155?style=flat-square&logo=kubernetes&logoColor=white"></a><a href="#"><img align="left" alt="Terraform" src="https://img.shields.io/badge/Terraform-334155?style=flat-square&logo=terraform&logoColor=white"></a>
+<a href="https://www.postgresql.org"><img align="left" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-334155?style=flat&logo=postgresql&logoColor=white"></a><a href="https://www.mongodb.com"><img align="left" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-334155?style=flat&logo=mongodb&logoColor=white"></a><a href="https://www.linux.org"><img align="left" alt="Linux" src="https://img.shields.io/badge/Linux-334155?style=flat&logo=linux&logoColor=white"></a><a href="https://www.docker.com"><img align="left" alt="Docker" src="https://img.shields.io/badge/Docker-334155?style=flat&logo=docker&logoColor=white"></a><a href="https://kubernetes.io"><img align="left" alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-334155?style=flat&logo=kubernetes&logoColor=white"></a><a href="https://www.terraform.io"><img align="left" alt="Terraform" src="https://img.shields.io/badge/Terraform-334155?style=flat&logo=terraform&logoColor=white"></a>
 </td>
 </tr>
 </table>
@@ -73,7 +73,7 @@ Plus a steady stream of AI-agent side-projects, because the best way to learn a 
 ## 🌐 &nbsp; Let's connect
 
 <p>
-<a href="https://linkedin.com/in/felixkapfer"><img align="left" hspace="2" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-334155?style=flat-square&logo=linkedin&logoColor=white"></a><a href="https://kapferundwerner.com"><img align="left" hspace="2" alt="Web" src="https://img.shields.io/badge/kapferundwerner.com-334155?style=flat-square&logo=googlechrome&logoColor=white"></a>
+<a href="https://linkedin.com/in/felixkapfer"><img align="left" hspace="2" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-334155?style=flat&logo=linkedin&logoColor=white"></a><a href="https://kapferundwerner.com"><img align="left" hspace="2" alt="Web" src="https://img.shields.io/badge/kapferundwerner.com-334155?style=flat&logo=googlechrome&logoColor=white"></a>
 <br clear="all">
 </p>
 
