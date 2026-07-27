@@ -24,7 +24,7 @@ Plus a steady stream of AI-agent side-projects, because the best way to learn a 
 
 ## 🛠️ &nbsp; Toolbox
 
-| | |
+| | <img src="https://raw.githubusercontent.com/felixkapfer/felixkapfer/main/.github/spacer.png" width="480" height="1" alt=""> |
 |--:|:--|
 | **AI & Agents** | ![LangChain](https://img.shields.io/badge/LangChain-334155?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-334155?style=flat-square) ![CrewAI](https://img.shields.io/badge/CrewAI-334155?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-334155?style=flat-square&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-334155?style=flat-square&logo=scikit-learn&logoColor=white) |
 | **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-334155?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-334155?style=flat-square&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-334155?style=flat-square&logo=php&logoColor=white) |
