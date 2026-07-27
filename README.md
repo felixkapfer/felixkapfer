@@ -24,20 +24,53 @@ Plus a steady stream of AI-agent side-projects, because the best way to learn a 
 
 ## 🛠️ &nbsp; Toolbox
 
-**AI & Agents**
-![LangChain](https://img.shields.io/badge/LangChain-334155?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-334155?style=flat-square) ![CrewAI](https://img.shields.io/badge/CrewAI-334155?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-334155?style=flat-square&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-334155?style=flat-square&logo=scikit-learn&logoColor=white)
+<p>
+<strong>AI &amp; Agents</strong><br>
+<a href="#"><img align="left" alt="LangChain" src="https://img.shields.io/badge/LangChain-334155?style=flat-square&logo=langchain&logoColor=white"></a>
+<a href="#"><img align="left" alt="LangGraph" src="https://img.shields.io/badge/LangGraph-334155?style=flat-square"></a>
+<a href="#"><img align="left" alt="CrewAI" src="https://img.shields.io/badge/CrewAI-334155?style=flat-square"></a>
+<a href="#"><img align="left" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-334155?style=flat-square&logo=tensorflow&logoColor=white"></a>
+<a href="#"><img align="left" alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-334155?style=flat-square&logo=scikit-learn&logoColor=white"></a>
+<br clear="all">
+</p>
 
-**Languages**
-![TypeScript](https://img.shields.io/badge/TypeScript-334155?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-334155?style=flat-square&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-334155?style=flat-square&logo=php&logoColor=white)
+<p>
+<strong>Languages</strong><br>
+<a href="#"><img align="left" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-334155?style=flat-square&logo=typescript&logoColor=white"></a>
+<a href="#"><img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-334155?style=flat-square&logo=javascript&logoColor=white"></a>
+<a href="#"><img align="left" alt="Python" src="https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=white"></a>
+<a href="#"><img align="left" alt="PHP" src="https://img.shields.io/badge/PHP-334155?style=flat-square&logo=php&logoColor=white"></a>
+<br clear="all">
+</p>
 
-**Web & Frameworks**
-![Next.js](https://img.shields.io/badge/Next.js-334155?style=flat-square&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-334155?style=flat-square&logo=node.js&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-334155?style=flat-square&logo=angular&logoColor=white) ![Django](https://img.shields.io/badge/Django-334155?style=flat-square&logo=django&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-334155?style=flat-square&logo=tailwindcss&logoColor=white)
+<p>
+<strong>Web &amp; Frameworks</strong><br>
+<a href="#"><img align="left" alt="Next.js" src="https://img.shields.io/badge/Next.js-334155?style=flat-square&logo=next.js&logoColor=white"></a>
+<a href="#"><img align="left" alt="Node.js" src="https://img.shields.io/badge/Node.js-334155?style=flat-square&logo=node.js&logoColor=white"></a>
+<a href="#"><img align="left" alt="Angular" src="https://img.shields.io/badge/Angular-334155?style=flat-square&logo=angular&logoColor=white"></a>
+<a href="#"><img align="left" alt="Django" src="https://img.shields.io/badge/Django-334155?style=flat-square&logo=django&logoColor=white"></a>
+<a href="#"><img align="left" alt="Tailwind" src="https://img.shields.io/badge/Tailwind-334155?style=flat-square&logo=tailwindcss&logoColor=white"></a>
+<br clear="all">
+</p>
 
-**SAP & Cloud**
-![SAP BTP](https://img.shields.io/badge/SAP%20BTP-334155?style=flat-square&logo=sap&logoColor=white) ![Kyma](https://img.shields.io/badge/Kyma-334155?style=flat-square) ![Cloud Foundry](https://img.shields.io/badge/Cloud%20Foundry-334155?style=flat-square&logo=cloudfoundry&logoColor=white) ![CAP](https://img.shields.io/badge/CAP-334155?style=flat-square)
+<p>
+<strong>SAP &amp; Cloud</strong><br>
+<a href="#"><img align="left" alt="SAP BTP" src="https://img.shields.io/badge/SAP%20BTP-334155?style=flat-square&logo=sap&logoColor=white"></a>
+<a href="#"><img align="left" alt="Kyma" src="https://img.shields.io/badge/Kyma-334155?style=flat-square"></a>
+<a href="#"><img align="left" alt="Cloud Foundry" src="https://img.shields.io/badge/Cloud%20Foundry-334155?style=flat-square&logo=cloudfoundry&logoColor=white"></a>
+<a href="#"><img align="left" alt="CAP" src="https://img.shields.io/badge/CAP-334155?style=flat-square"></a>
+<br clear="all">
+</p>
 
-**Data & Infra**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-334155?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-334155?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-334155?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-334155?style=flat-square&logo=kubernetes&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-334155?style=flat-square&logo=linux&logoColor=white)
+<p>
+<strong>Data &amp; Infra</strong><br>
+<a href="#"><img align="left" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-334155?style=flat-square&logo=postgresql&logoColor=white"></a>
+<a href="#"><img align="left" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-334155?style=flat-square&logo=mongodb&logoColor=white"></a>
+<a href="#"><img align="left" alt="Docker" src="https://img.shields.io/badge/Docker-334155?style=flat-square&logo=docker&logoColor=white"></a>
+<a href="#"><img align="left" alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-334155?style=flat-square&logo=kubernetes&logoColor=white"></a>
+<a href="#"><img align="left" alt="Linux" src="https://img.shields.io/badge/Linux-334155?style=flat-square&logo=linux&logoColor=white"></a>
+<br clear="all">
+</p>
 
 ## 🌱 &nbsp; Off the clock
 
@@ -48,8 +81,11 @@ Plus a steady stream of AI-agent side-projects, because the best way to learn a 
 
 ## 🌐 &nbsp; Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-334155?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/felixkapfer)
-[![Web](https://img.shields.io/badge/kapferundwerner.com-334155?style=flat-square&logo=googlechrome&logoColor=white)](https://kapferundwerner.com)
+<p>
+<a href="https://linkedin.com/in/felixkapfer"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-334155?style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="https://kapferundwerner.com"><img align="left" alt="Web" src="https://img.shields.io/badge/kapferundwerner.com-334155?style=flat-square&logo=googlechrome&logoColor=white"></a>
+<br clear="all">
+</p>
 
 <div align="center">
 <sub>🤖 If this profile looks suspiciously polished, an agent probably did it.</sub>
